@@ -1,8 +1,8 @@
 # Production log 1
-# create an ssh key for this repo (cat /home/u17008225/.ssh/id_ed25519.pub - use to display ssh key on terminal)
-# clone this repo onto a local machine
-# turn on and establish a connection with baxter at the main console
-#
+# created an ssh key for this repo (cat /home/u17008225/.ssh/id_ed25519.pub - use to display ssh key on terminal)
+# cloned this repo onto a local machine
+# turned on and established a connection with baxter at the main console
+# 
 #
 #
 #
